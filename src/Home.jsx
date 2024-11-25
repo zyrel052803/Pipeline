@@ -5,6 +5,12 @@ const HomePage = () => {
         <h1 style={styles.homeText}>Home</h1>
         <h1>Mathematics Game</h1>
         <p>A Gamified Learning Journey</p>
+        <h3>Members</h3>
+        <h4>Kyle</h4>
+        <h4>Zyrel</h4>
+        <h4>Gino</h4>
+        <h4>Topher</h4>
+        <h4>Cristine</h4>
       </div>
     </div>
   );
