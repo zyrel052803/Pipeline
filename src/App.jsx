@@ -5,7 +5,7 @@ import ContactUs from './ContactUs';
 
 const App = () => {
   return (
-    <Router basename="/supply-office-v2">
+    <Router basename="/Pipeline">
       <nav style={styles.nav}>
         <Link to="/" style={styles.navLink}>Home</Link>
         <Link to="/about-us" style={styles.navLink}>About Us</Link>
